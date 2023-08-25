@@ -17,4 +17,4 @@ The ultimate goal of this endeavor is to ascertain whether the population has su
 
 In summary, this project involves adopting a genetic algorithm to address the Sudoku problem. This entails defining genes and chromosomes, establishing a "Chromosome" class, generating initial populations, optimizing fitness through genetic mechanisms, and iterating towards a solution while avoiding stagnation. The implementation is guided by the principles of genetic problem-solving.
 
-![image](https://github.com/romidi80/Solving-sudoku-using-Genetic-algorithm/assets/89667194/308608e0-a734-4327-9b24-617848c66519)
+![image](https://github.com/romidi80/Solving-sudoku-using-Genetic-algorithm/assets/89667194/e2987741-4c24-4c41-a90b-5c6687629c62)
